@@ -560,44 +560,29 @@ FlowBoard/
 
 ## 📸 Screenshots
 
-Add your final production screenshots to a folder such as
-`docs/screenshots/` and update the paths below.
-
 ### Dashboard
 
-``` md
 ![FlowBoard Dashboard](./docs/screenshots/dashboard.png)
-```
 
 ### Workspaces
 
-``` md
 ![FlowBoard Workspaces](./docs/screenshots/workspaces.png)
-```
 
 ### Project
 
-``` md
-![FlowBoard Project](./docs/screenshots/project.png)
-```
+![FlowBoard Project](./docs/screenshots/projects.png)
 
 ### Task Details
 
-``` md
 ![FlowBoard Task](./docs/screenshots/task.png)
-```
 
 ### Notifications
 
-``` md
 ![FlowBoard Notifications](./docs/screenshots/notifications.png)
-```
 
 ### Mobile View
 
-``` md
 ![FlowBoard Mobile](./docs/screenshots/mobile.png)
-```
 
 ------------------------------------------------------------------------
 
